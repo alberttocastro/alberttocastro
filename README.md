@@ -13,7 +13,9 @@ Here are some of the things I have already come across during my learning path:
 - SQL (MySQL)
 - C++ (Arduino)
 
-My goal is to keep developing myself as a developer 🤓. I carry on some projects under the World Digital Code or [wode.dev](http://wode.dev) organization, which I created myself. Feel free to browse around the repos, and give any feedback through albertto.programmer@gmail.com.
+My goal is to keep developing myself as a developer 🤓. 
+I carry on some projects under the World Digital Code or [wode.dev](http://wode.dev) organization, which I created myself, along with a great friend. We carry it as a weekend project. We started by managing a web hosting, developing some websites, and we're also engaged in some Saas projects.
+Feel free to browse around the repos, and give any feedback through albertto.programmer@gmail.com.
 
 <!--
 **alberttocastro/alberttocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
