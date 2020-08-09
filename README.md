@@ -7,6 +7,8 @@ Here are some of the things I have already come across during my learning path:
 - PHP (Laravel, Wordpress)
 - Javascript (Vue.js, React)
 - Ruby (on Rails)
+- HTML
+- CSS (SASS, Bootstrap, Materialize)
 - Java (Native Android App Development)
 - SQL (MySQL)
 - C++ (Arduino)
