@@ -25,6 +25,7 @@ Here are some social media links of mine:
 
 Here some links from World Digital Code
 
+- [Github](https://github.com/Wode-dev)
 - [Wode.dev](http://wode.dev)
 - [Facebook](https://facebook.com/wode.dev)
 - [Twitter](https://twitter.com/wode_dev)
