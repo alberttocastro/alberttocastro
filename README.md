@@ -25,11 +25,12 @@ Here are some social media links of mine:
 
 Here some links from World Digital Code
 
-- [Twitter](https://twitter.com/wode_dev)
 - [Wode.dev](http://wode.dev)
+- [Facebook](https://facebook.com/wode.dev)
+- [Twitter](https://twitter.com/wode_dev)
 - [LinkedIn](https://www.linkedin.com/company/wode-dev)
 - [Instagram](https://www.instagram.com/wode.dev/)
-- [Facebook](https://facebook.com/wode.dev)
+
 
 <!--
 **alberttocastro/alberttocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
