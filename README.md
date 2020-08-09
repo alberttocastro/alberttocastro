@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer science student and PHP developer. I love technology, and can't stop watching tech reviews. My main stack is PHP (Laravel) and Vue.js.
+I'm a Computer Science student @UoPeople and PHP developer. I love technology, and just can't stop watching tech reviews. My main stack is PHP (Laravel) and Vue.js. I'm from Brazil, BTW.
 
 Here are some of the things I have already come across during my learning path:
 
