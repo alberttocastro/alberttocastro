@@ -20,15 +20,12 @@ Feel free to browse around the repos, and give any feedback through albertto.pro
 Here are some social media links of mine:
 
 - [Linkedin](https://www.linkedin.com/in/alberttocastro/)
-- [Twitter](https://twitter.com/albertto_castro)
 - Website will come some time in the future...
 
 Here some links from World Digital Code
 
 - [Github](https://github.com/Wode-dev)
 - [Wode.dev](http://wode.dev)
-- [Facebook](https://facebook.com/wode.dev)
-- [Twitter](https://twitter.com/wode_dev)
 - [LinkedIn](https://www.linkedin.com/company/wode-dev)
 - [Instagram](https://www.instagram.com/wode.dev/)
 
