@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student @UoPeople and PHP developer. I love technology, and just can't stop watching tech reviews. I'm for remote work and asynchronous communication. I'm from Brazil, BTW.
+I'm a Web developer, and also an Associate of Computer Science student @UoPeople. I love technology, and just can't stop watching tech reviews. I'm for remote work and asynchronous communication. I'm from Brazil, BTW.
 
 My main technologies and tools are:
 
@@ -35,6 +35,15 @@ Here some links from World Digital Code
 - [Github](https://github.com/Wode-dev)
 - [Wode.dev](http://wode.dev)
 
+Fun facts:
+
+- I love Acarajé
+- Some youtuber programmers I follow (and ones that influence me) are: Gabriel Fróes and Wanessa Weber (Codigo Fonte TV), Felipe Deschamps, Fabio Akita, Léo (Cod3r), Lucas Montano
+- Some tech youtubers I follow are: Coisa de Nerd, Tecnoblog, MKBHD
+- I preffer the Android side of the force
+- I preffer Linux over Windows. But let's be honest: we don't have all tools on Linux. That's why I use WSL, and have the best of both Worlds.
+- I'm learning to prioritize, and finish sideprojects I start (nobody is perfect, isn't it?!)
+- I intend to work remotely for companies abroad. Do you have a job offer? I'd love to discuss! [Send me an email](mailto:albertto.programmer@gmail.com)
 
 <!--
 **alberttocastro/alberttocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
