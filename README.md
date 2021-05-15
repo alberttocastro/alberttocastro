@@ -13,6 +13,7 @@ My main technologies and tools are:
 
 Some other technologies I've already come across are:
 
+- Docker
 - Ruby (on Rails)
 - Java (Android, JSF, Spring)
 - C++ (Arduino)
