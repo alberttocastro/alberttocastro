@@ -29,7 +29,7 @@ Here are some social media links of mine:
 
 - [Linkedin](https://www.linkedin.com/in/alberttocastro/)
 - [Twitter](https://twitter.com/albertto_castro)
-- [Website](https://alberttocastro.github.io)
+- [alberttocastro.github.io](https://alberttocastro.github.io)
 
 Here some links from World Digital Code
 
