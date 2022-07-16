@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Web developer, and also an Associate of Computer Science student @UoPeople. I love technology, and just can't stop watching tech reviews. I'm for remote work and asynchronous communication. I'm from Brazil, BTW.
+I'm a Web developer, and also an Associate of Computer Science. I love technology, and just can't stop watching tech reviews. I'm for remote work and asynchronous communication. I'm from Brazil, BTW.
 
 My main technologies and tools are:
 
