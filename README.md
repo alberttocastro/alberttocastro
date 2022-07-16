@@ -20,7 +20,6 @@ Some other technologies I've already come across are:
 - Visual Basic (Excel)
 
 I'm focusing on developing my skills on Javascript, right now. I'm also building some sideprojects I hope will monetize some day. It will help me to understand the development decisions I should take over time.
-I carry on some projects under the World Digital Code or [wode.dev](http://wode.dev) brand, which I created myself, along with a great friend. We carry it as a weekend project. We started by managing a web hosting, developing some websites, and we're also engaged in some Saas projects.
 Feel free to browse around the repos, and give any feedback through [albertto.programmer@gmail.com](mailto:albertto.programmer@gmail.com).
 
 The project I'm working right now deals with personal finances. It will be a WebApp first. Then I plan to turn it mobile.
