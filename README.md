@@ -4,10 +4,10 @@ I'm a Web developer, and also an Associate of Computer Science. I love technolog
 
 My main technologies and tools are:
 
-- Javascript (Node, Vue.js)
 - PHP (Laravel, Wordpress)
-- MongoDB
+- Javascript (Node, Vue.js)
 - MySQL
+- MongoDB
 - CSS, SCSS (Bootstrap, Materialize)
 - Git
 
@@ -19,10 +19,10 @@ Some other technologies I've already come across are:
 - C++ (Arduino)
 - Visual Basic (Excel)
 
-I'm focusing on developing my skills on Javascript, right now. I'm also building some sideprojects I hope will monetize some day. It will help me to understand the development decisions I should take over time.
+I'm focusing on developing my skills on PHP, even more, right now. I'm also building some sideprojects I hope will monetize some day. It will help me to understand the development decisions I should take over time.
 Feel free to browse around the repos, and give any feedback through [albertto.programmer@gmail.com](mailto:albertto.programmer@gmail.com).
 
-The project I'm working right now deals with personal finances. It will be a WebApp first. Then I plan to turn it mobile.
+The project I'm working right now deals with school administration.
 
 Here are some social media links of mine:
 
@@ -30,15 +30,10 @@ Here are some social media links of mine:
 - [Twitter](https://twitter.com/albertto_castro)
 - [alberttocastro.github.io](https://alberttocastro.github.io)
 
-Here some links from World Digital Code
-
-- [Github](https://github.com/Wode-dev)
-- [Wode.dev](http://wode.dev)
-
 Fun facts:
 
 - I love Acarajé
-- Some youtuber programmers I follow (and ones that influence me) are: Gabriel Fróes and Wanessa Weber (Codigo Fonte TV), Felipe Deschamps, Fabio Akita, Léo (Cod3r), Lucas Montano
+- Some youtuber programmers I follow (and ones that influence me) are: Gabriel Fróes and Wanessa Weber (Codigo Fonte TV), Felipe Deschamps and Fabio Akita
 - Some tech youtubers I follow are: Coisa de Nerd, Tecnoblog, MKBHD
 - I preffer the Android side of the force
 - I preffer Linux over Windows. But let's be honest: we don't have all tools on Linux. That's why I use WSL, and have the best of both Worlds.
