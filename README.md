@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi there, I'm Alberto 👋
 
+## About me
 I'm a Web developer, and also an Associate of Computer Science. I love technology, and just can't stop watching tech reviews. I'm for remote work and asynchronous communication. I'm from Brazil, BTW.
 
+## Tech stack
 My main technologies and tools are:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -25,10 +27,8 @@ Some other technologies I've already come across are:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![VBA Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-I'm focusing on developing my skills on PHP, even more, right now. I'm also building some sideprojects I hope will monetize some day. It will help me to understand the development decisions I should take over time.
-Feel free to browse around the repos, and give any feedback through [albertto.programmer@gmail.com](mailto:albertto.programmer@gmail.com).
-
-The project I'm working right now deals with school administration.
+## In progress
+Righ now I have a full-time job that
 
 Here are some social media links of mine:
 
@@ -36,27 +36,12 @@ Here are some social media links of mine:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/al_berttocastro)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&label=alberttocastro.dev)](https://alberttocastro.dev)
 
-Fun facts:
+## Fun facts
 
 - I love Acarajé
 - Some youtuber programmers I follow (and ones that influence me) are: Gabriel Fróes and Wanessa Weber (Codigo Fonte TV), Felipe Deschamps and Fabio Akita
-- Some tech youtubers I follow are: Coisa de Nerd, Tecnoblog, MKBHD
+- Some tech youtubers I follow are: Coisa de Nerd, Tecnoblog, MKBHD and Diolinux
 - I preffer the Android side of the force
 - I preffer Linux over Windows. But let's be honest: we don't have all tools on Linux. That's why I use WSL, and have the best of both Worlds.
 - I'm learning to prioritize, and finish sideprojects I start (nobody is perfect, isn't it?!)
 - I intend to work remotely for companies abroad. Do you have a job offer? I'd love to discuss! [Send me an email](mailto:albertto.programmer@gmail.com)
-
-<!--
-**alberttocastro/alberttocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
