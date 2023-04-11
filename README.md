@@ -1,7 +1,13 @@
 # Hi there, I'm Alberto 👋
 
 ## About me
-I'm a Web developer, and also an Associate of Computer Science. I love technology, and just can't stop watching tech reviews. I'm for remote work and asynchronous communication. I'm from Brazil, BTW.
+Let me introduce you to this amazing PHP developer from Brazil!
+
+This computer scientist knows how to speak the language of machines, and not only PHP but other programming languages too. Talk about being multi-talented! They're like a walking, talking, coding machine!
+
+But don't be fooled by their love of tech, because this Brazilian dev knows how to have some fun too! Whether they're tackling complex algorithms or discovering the latest tech trends, this guy is always up for a good challenge.
+
+So, if you're ever in Brazil, or anywhere in the world, and in need of some top-notch coding skills, look no further than this PHP-loving, tech-obsessed nerd!
 
 ## Tech stack
 My main technologies and tools are:
@@ -28,13 +34,14 @@ Some other technologies I've already come across are:
 ![VBA Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## In progress
-Righ now I have a full-time job that
+If you're here and you see kind of a desolate GitHub profile, please don't judge me. I have a full-time job that takes up most of my time, leaving me with no spare time for personal projects. As a result, my GitHub contributions look like a barren desert. The only green squares you'll see on my profile are from my university projects, and let's face it, that was ages ago. But hey, don't lose hope! I'm still alive and kicking, and if I can find some time, I'm more than willing to consider contributing to some awesome open source projects. So hit me up if you need a code ninja to help you slay some bugs and make your project shine!
 
 Here are some social media links of mine:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberttocastro/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/al_berttocastro)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&label=alberttocastro.dev)](https://alberttocastro.dev)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertto.programmer@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/al_berttocastro)
 
 ## Fun facts
 
@@ -45,3 +52,4 @@ Here are some social media links of mine:
 - I preffer Linux over Windows. But let's be honest: we don't have all tools on Linux. That's why I use WSL, and have the best of both Worlds.
 - I'm learning to prioritize, and finish sideprojects I start (nobody is perfect, isn't it?!)
 - I intend to work remotely for companies abroad. Do you have a job offer? I'd love to discuss! [Send me an email](mailto:albertto.programmer@gmail.com)
+- I'm also looking for a visa sponsorship. What about Canada, or Portugal? My wife and I will pack and go!
