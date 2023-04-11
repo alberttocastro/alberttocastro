@@ -1,12 +1,12 @@
 # Hi there, I'm Alberto 👋
 
-## About me
+## About me 🤓
 Let me introduce you to this amazing PHP developer from Brazil!
 You know what's amazing about this guy? Not only does he has a good understanding of programming languages, but he also has a passion for learning about technology. It's like he's a never-ending source of conversation when it comes to everything tech-related!
 
 Whether it's the latest updates in PHP, the newest software development methodologies, or emerging tech like AI, this dude is always eager to learn more. And it's not just about keeping up with the trends, either. He genuinely enjoy diving deep into the nitty-gritty details of how things work, and he's not afraid to get his hands dirty when it comes to experimenting and testing out new ideas. But even with all his technical prowess, this guy is also a fun-loving, down-to-earth person. He's always up for a good joke or a friendly chat about anything from music to sports to the latest movie. And his Brazilian roots mean that he has a passion for life and a love of celebration that's infectious to be around! So if you're looking for someone who not only knows how to write killer PHP code but also has an insatiable curiosity and a love of life, look no further than this PHP-loving, tech-obsessed nerd!
 
-## Tech stack
+## Tech stack 💻
 My main technologies and tools are:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -28,7 +28,7 @@ Some other technologies I've already come across are:
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![VBA Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&label=VBA)
 
 ## In progress
 If you're here and you see kind of a desolate GitHub profile, please don't judge me. I have a full-time job that takes up most of my time, leaving me with no spare time for personal projects. As a result, my GitHub contributions look like a barren desert. The only green squares you'll see on my profile are from my university projects, and let's face it, that was ages ago. But hey, don't lose hope! I'm still alive and kicking, and if I can find some time, I'm more than willing to consider contributing to some awesome open source projects. So hit me up if you need a code ninja to help you slay some bugs and make your project shine!
