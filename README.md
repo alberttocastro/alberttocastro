@@ -2,8 +2,9 @@
 
 ## About me
 Let me introduce you to this amazing PHP developer from Brazil!
+You know what's amazing about this this guy? Not only do they have a good understanding of programming languages, but he also has a passion for learning about technology. It's like he's a never-ending source of conversation when it comes to everything tech-related!
 
-This computer scientist knows how to speak the language of machines, and not only PHP but other programming languages too. Talk about being multi-talented! They're like a walking, talking, coding machine! But don't be fooled by their love of tech, because this Brazilian dev knows how to have some fun too! Whether they're tackling complex algorithms or discovering the latest tech trends, this guy is always up for a good challenge. So, if you're ever in Brazil, or anywhere in the world, and in need of some top-notch coding skills, look no further than this PHP-loving, tech-obsessed nerd!
+Whether it's the latest updates in PHP, the newest software development methodologies, or emerging technologies like AI, this developer is always eager to learn more. And it's not just about keeping up with the trends, either. They genuinely enjoy diving deep into the nitty-gritty details of how things work, and they're not afraid to get their hands dirty when it comes to experimenting and testing out new ideas. But even with all their technical prowess, this guy is also a fun-loving, down-to-earth person. They're always up for a good joke or a friendly chat about anything from music to sports to the latest movie. And their Brazilian roots mean that they have a passion for life and a love of celebration that's infectious to be around! So if you're looking for someone who not only knows how to write killer PHP code but also has an insatiable curiosity and a love of life, look no further than this PHP-loving, tech-obsessed nerd!
 
 ## Tech stack
 My main technologies and tools are:
