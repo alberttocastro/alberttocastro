@@ -30,7 +30,7 @@ Some other technologies I've already come across are:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![VBA Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&label=VBA)
 
-## In progress
+## In progress 🏗️
 If you're here and you see kind of a desolate GitHub profile, please don't judge me. I have a full-time job that takes up most of my time, leaving me with no spare time for personal projects. As a result, my GitHub contributions look like a barren desert. The only green squares you'll see on my profile are from my university projects, and let's face it, that was ages ago. But hey, don't lose hope! I'm still alive and kicking, and if I can find some time, I'm more than willing to consider contributing to some awesome open source projects. So hit me up if you need a code ninja to help you slay some bugs and make your project shine!
 
 Here are some social media links of mine:
@@ -40,7 +40,7 @@ Here are some social media links of mine:
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertto.programmer@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/al_berttocastro)
 
-## Fun facts
+## Fun facts 🥸
 
 - I love Acarajé
 - Some youtuber programmers I follow (and ones that influence me) are: Gabriel Fróes and Wanessa Weber (Codigo Fonte TV), Felipe Deschamps and Fabio Akita
