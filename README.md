@@ -48,5 +48,5 @@ Here are some social media links of mine:
 - I preffer the Android side of the force
 - I preffer Linux over Windows. But let's be honest: we don't have all tools on Linux. That's why I use WSL, and have the best of both Worlds.
 - I'm learning to prioritize, and finish sideprojects I start (nobody is perfect, isn't it?!)
-- I intend to work remotely for companies abroad. Do you have a job offer? I'd love to discuss! [Send me an email](mailto:albertto.programmer@gmail.com)
-- I'm also looking for a visa sponsorship. What about Canada, or Portugal? My wife and I will pack and go!
+- I like the ideia of working remotely for companies abroad. Do you have a job offer? I'd love to discuss! [Send me an email](mailto:albertto.programmer@gmail.com)
+- I'd also love to relocate to another country. What about Canada, or Portugal? My wife and I would pack and go!
