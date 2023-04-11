@@ -3,11 +3,7 @@
 ## About me
 Let me introduce you to this amazing PHP developer from Brazil!
 
-This computer scientist knows how to speak the language of machines, and not only PHP but other programming languages too. Talk about being multi-talented! They're like a walking, talking, coding machine!
-
-But don't be fooled by their love of tech, because this Brazilian dev knows how to have some fun too! Whether they're tackling complex algorithms or discovering the latest tech trends, this guy is always up for a good challenge.
-
-So, if you're ever in Brazil, or anywhere in the world, and in need of some top-notch coding skills, look no further than this PHP-loving, tech-obsessed nerd!
+This computer scientist knows how to speak the language of machines, and not only PHP but other programming languages too. Talk about being multi-talented! They're like a walking, talking, coding machine! But don't be fooled by their love of tech, because this Brazilian dev knows how to have some fun too! Whether they're tackling complex algorithms or discovering the latest tech trends, this guy is always up for a good challenge. So, if you're ever in Brazil, or anywhere in the world, and in need of some top-notch coding skills, look no further than this PHP-loving, tech-obsessed nerd!
 
 ## Tech stack
 My main technologies and tools are:
